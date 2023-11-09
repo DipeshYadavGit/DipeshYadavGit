@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there its me Dipesh 👋
+### I'm a Student 🧑‍🎓
+### I'm currently Learining Java ☕
+### You can ask me about Java 😁
+
 
 <!--
 **DipeshYadavGit/DipeshYadavGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
